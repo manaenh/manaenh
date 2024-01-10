@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manaenh
-- 👀 I’m interested in creating things that are fun or usuful
+- 👀 I’m interested in creating things that are fun and perhaps useful
 - 🌱 I’m currently learning C, C++, and Python
 - 📫 How to reach me : manaenhu@gmail.com
 
